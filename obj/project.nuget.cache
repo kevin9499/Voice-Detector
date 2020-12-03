@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2zF01HF7vS0dswrAHlWJuUpzixghJF8KCYRh2U2ZUIeKGFU9I2erzw5/NuCUq4KHjirWHeMBR22iHAYaPxU5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Final\\Desktop\\Voice\\Voice\\Voice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Final\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.14.0\\microsoft.cognitiveservices.speech.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
